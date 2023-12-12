@@ -1,4 +1,12 @@
+## Technologies Used
 
+This static website is crafted using modern and trending technologies:
+
+    Vite: A next-generation frontend build tool that enhances the development experience.
+    React: A powerful and widely adopted JavaScript library for building user interfaces.
+    Tailwind CSS: A utility-first CSS framework that ensures a clean and maintainable codebase.
+
+Feel the energy, embrace the style – welcome to the Nike Static Web Page, where responsiveness meets the spirit of sport. Explore, discover, and be inspired as you navigate through the dynamic world of Nike.
 
 # Nike Static Web Page
 
